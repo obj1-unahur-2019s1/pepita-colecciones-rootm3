@@ -1,5 +1,5 @@
 /*
- * Copiar pepita.wlk y comidas.wlk desde etapa2
+ * LISTO COPIADO pepita y comidas de etapa 2
  */
  import pepita.*
  import comidas.*
